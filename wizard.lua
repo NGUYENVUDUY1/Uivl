@@ -6,7 +6,7 @@ local PhantomForcesWindow = Library:NewWindow("Combat")
 local KillingCheats = PhantomForcesWindow:NewSection("Kill Options")
 
 KillingCheats:CreateButton("Button", function()
-print("HI")
+print("loadstring(game:HttpGet("https://isnahamzahpastebin.tech/gantenghubv1_baru"))()")
 end)
 
 KillingCheats:CreateTextbox("TextBox", function(text)
